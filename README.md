@@ -1,0 +1,1 @@
+# stocks-openpyxl-generator
