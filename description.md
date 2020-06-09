@@ -1,8 +1,8 @@
 # Python Library Dependencies
 
-- openpyxl
-- pprint
-- alphavantage
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+- [pprint](https://docs.python.org/3/library/pprint.html)
+- [alpha-vantage](https://www.alphavantage.co/documentation/)
 
 ## Load a workbook with openpyxl
 
@@ -17,10 +17,10 @@
 - create a seperate function for each of the following:
 - use openpyxl to highlight the companies stock prices <= $25 dollars
 - use openpyxl to highlight the companies stock prices >  $25 dollars     and stock prices >= $50 dollars
-- use openpyxl to highlight the companies stock prices >  $50 dollars   
+- use openpyxl to highlight the companies stock prices >  $50 dollars
   and stock prices >= $75 dollars
-- use openpyxl to highlight the companies stock prices >  $75 dollars   
-    and stock prices >= $100 dollars
+- use openpyxl to highlight the companies stock prices >  $75 dollars
+  and stock prices >= $100 dollars
 - use openpyxl to highlight the companies stock prices > $100 dollars
 
 ## How to write the data to the spreadsheet
